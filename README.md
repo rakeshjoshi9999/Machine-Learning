@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 Learning the machine learning through tackling the basic problems using the  simple datasets
 
 How to Execute:
